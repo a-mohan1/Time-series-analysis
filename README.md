@@ -1,2 +1,2 @@
-# Projects from MIT Data Science Course
-Projects from MIT Data Science Course
+# My DS Projects from 2020-2021
+My DS Projects from 2020-2021
